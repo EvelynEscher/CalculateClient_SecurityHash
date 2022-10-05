@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "muNgjqARE2Hotmq6dx7AewPVPREUDNO+/2WbB485QdTcawf0XjfdIz102/E47zomljzZL7U8EJkRrsSby46XNg==",
+  "dgSpecHash": "lqVARZ6vdM+z+3cFDSP10c2rSr3+729WK+9daIwyjGtmvM8WDI7XuoRd7sfpHx4VlXdCUsTdB6tB+BxsyTjaDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enfe\\OneDrive - GFT Technologies SE\\Documents\\Documentação GFT - Evelyn Escher\\4 - Estudos RPA\\UiPath\\CalculateClientSecurityHash - Training\\CalculateClient_SecurityHash\\.local\\",
+  "projectFilePath": "C:\\Users\\enfe\\OneDrive - GFT Technologies SE\\Documents\\Documentação GFT - Evelyn Escher\\4 - Estudos RPA\\UiPath\\Conflitos_GIT\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\enfe\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\enfe\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
